@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/IBMPlex/IBMPlexSans-Bold.ttf",
+      "sha1": "ac554e892a1dd9e6d608b4858a86fea0aef10aec"
+    },
+    {
+      "path": "assets/fonts/IBMPlex/IBMPlexSans-Light.ttf",
+      "sha1": "012ed6763082fa21f566af32ce97f638321c1384"
+    },
+    {
+      "path": "assets/fonts/IBMPlex/IBMPlexSans-Medium.ttf",
+      "sha1": "de9962fe775cc845b1a67c04216249f0801b2e5f"
+    },
+    {
+      "path": "assets/fonts/IBMPlex/IBMPlexSans-Regular.ttf",
+      "sha1": "b8a09e192ea398424f73d3df900447bc6cb5e23b"
+    },
+    {
+      "path": "assets/fonts/IBMPlex/IBMPlexSans-SemiBold.ttf",
+      "sha1": "edc22f78a540bb9c1174b2c7a00d0cccfb2fca38"
+    },
+    {
+      "path": "assets/fonts/Montserrat/Montserrat-Bold.ttf",
+      "sha1": "3a54407a2b26ff4718708a4726b10cb070d16534"
+    },
+    {
+      "path": "assets/fonts/Montserrat/Montserrat-Light.ttf",
+      "sha1": "83879cec4c934d446eca63aa5cfedcebfd60d610"
+    },
+    {
+      "path": "assets/fonts/Montserrat/Montserrat-Medium.ttf",
+      "sha1": "65a98832079c4d2c67f3acc4f4ce2de630fe6cb0"
+    },
+    {
+      "path": "assets/fonts/Montserrat/Montserrat-MediumItalic.ttf",
+      "sha1": "ceadac9926836d5fc0ee14f94567f0ea25979fa2"
+    },
+    {
+      "path": "assets/fonts/Montserrat/Montserrat-Regular.ttf",
+      "sha1": "d25b35242deb1c6ff888b8162ca2aacc356d3899"
+    },
+    {
+      "path": "assets/fonts/Montserrat/Montserrat-SemiBold.ttf",
+      "sha1": "f829de4c176fb2ccf5e33360920f48de6794434e"
+    },
+    {
+      "path": "assets/fonts/Roboto/Roboto-Bold.ttf",
+      "sha1": "013f1bbcbbd80991a5f00fca52a90d0d7ab8b81f"
+    },
+    {
+      "path": "assets/fonts/Roboto/Roboto-Light.ttf",
+      "sha1": "51dbae4543aaa10096e344e48fcffe468bd314a9"
+    },
+    {
+      "path": "assets/fonts/Roboto/Roboto-Medium.ttf",
+      "sha1": "fddc8b1c688ef3baed0d5a46abf5f01f0edaf02b"
+    },
+    {
+      "path": "assets/fonts/Roboto/Roboto-Regular.ttf",
+      "sha1": "84d102488738b0ebbc7a5087973effbd54c95bd5"
+    },
+    {
+      "path": "assets/icons/icomoon.ttf",
+      "sha1": "9704a27a48f2dc96fd437ba613e05b1362cab410"
+    }
+  ]
+}
